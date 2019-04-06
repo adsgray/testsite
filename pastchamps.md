@@ -1,6 +1,7 @@
 ---
 title: Past League Winners
 description: The Sunday Open decides its champions with a playoff format
+layout: page
 ---
 
 ## 2017-2018 
