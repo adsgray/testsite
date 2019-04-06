@@ -1,5 +1,5 @@
 title: Sunday Open League
-description: Vancouver Curling Club 6:45pm Sundays
+description: "Sunday Open League at Vancouver Curling Club. Sundays at 6:45pm" # Site description and default description, also used in jekyll-seo-tag
 #google_analytics:
 theme: jekyll-theme-time-machine
 layout: page
@@ -7,3 +7,7 @@ feature_image: "assets/sundayopenbanner.jpeg"
 
 markdown: kramdown
 
+
+logo: "assets/sundayopenlogo.jpg" # Site logo, also used in jekyll-seo-tag
+url: "https://vccsundayopen.club" # Site url, also used in jekyll-seo-tag
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
