@@ -1,6 +1,7 @@
 ---
-title: Sunday Open League @ Vancouver Curling Club
-description: Sundays at 6:45pm
+title: Sunday Open League
+description: Sundays at 6:45pm @ Vancouver Curling Club
+layout: default
 ---
 ## Important Dates
 * news 1
