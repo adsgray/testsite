@@ -38,7 +38,7 @@ timezone: America/Vancouver # Timezone for blog posts and alike
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "VCC Sunday Open" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/sundayopenlogo.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "assets/sundayopenlogo.jpg" # Site logo, also used in jekyll-seo-tag
 description: "Sunday Open League at Vancouver Curling Club. Sundays at 6:45pm" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -50,7 +50,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 navigation_header:
   Home: /
-  Past Champions: /pastchamps.html
+  Past Champions: pastchamps.html
   #Blog: /blog/
   #Categories: /categories/
   #Search: /search/
