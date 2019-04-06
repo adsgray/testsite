@@ -6,23 +6,32 @@ layout: page
 aside: true
 ---
 ## Important Dates
-* news 1
-* news 2
+* September 16, 2018 *Open Ice*
+* September 23, 1018 *First week of the Round Robin Schedule*
+* September 30, 2018 *League Fees Due*
 
 ## 2019 - 2020 Season
 The Sunday Open is looking for teams and individuals looking to play in in the league next year. 
 
 ## Draw & Results
-* Full Season
-* Playoffs
+* [Full Season](seasondraw.html)
+* [Playoffs](playoffdraw.html)
 
 ## League Info
-Format, rules, tiebreakers and playoffs. PDF link.
+[Information about the league](leagueinfo.html)
 
 ## Spares list
-Team rep
+Your Team Rep will have a copy of the Spares List.
 
 ## Past League Winners
 [Champs](pastchamps.html)
 
 ## League Background
+
+The Sunday Open will be entering its 18th year. The Sunday Open is one
+of the more competitive leagues in the club as most teams there have
+been part of the league for 8+ years, but it is a friendly league as
+we all grew out of the novice program together. It is a very loyal
+league with a high retention rate. The Sunday Open is one of the most
+active in the club as many of its members participate on the VCC
+Board, play in multiple leagues, and compete in the VCC bonspiels.
