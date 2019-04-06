@@ -1,6 +1,7 @@
 ---
 title: Past League Winners
-description: The Sunday Open decides its champions with a playoff format
+description: The Sunday Open decides its champions with a playoff format.
+feature_image: "assets/sundayopenbanner.jpeg"
 layout: page
 ---
 
