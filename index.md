@@ -15,6 +15,7 @@ The Sunday Open is looking for teams and individuals looking to play in in the l
 
 ## Draw & Results
 * [Full Season](seasondraw.html)
+* [Standings](standings.html)
 * [Playoffs](playoffdraw.html)
 
 ## League Info
