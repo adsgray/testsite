@@ -6,12 +6,12 @@ layout: page
 aside: true
 ---
 ## Important Dates
-* September 16, 2018 *Open Ice*
-* September 23, 1018 *First week of the Round Robin Schedule*
-* September 30, 2018 *League Fees Due*
+* September 15, 2019 - League Kick-off Night
+* September 22, 2019 - Round Robin play begins
+* September 29, 2019 - League Fees Due
 
 ## 2019 - 2020 Season
-The Sunday Open is looking for teams and individuals looking to play in in the league next year. 
+The Sunday Open is looking for teams and individuals looking to play in in the league next year. Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club)
 
 ## Draw & Results
 * [Full Season](seasondraw.html)
