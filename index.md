@@ -14,9 +14,7 @@ aside: true
 The Sunday Open is looking for teams and individuals looking to play in in the league next year. Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club)
 
 ## Draw & Results
-* [Full Season](seasondraw.html)
-* [Standings](standings.html)
-* [Playoffs](playoffdraw.html)
+* [Full Season (PDF)](assets/SUNDAY_LEAGUE_DRAW_2019_2020.pdf)
 
 ## League Info
 [Information about the league](leagueinfo.html)
