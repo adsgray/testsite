@@ -14,7 +14,7 @@ aside: true
 The Sunday Open is looking for teams and individuals looking to play in in the league next year. Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club)
 
 ## Draw & Results
-* [First half Results and Divisional Round](assets/SUNDAY_NITE_LEAGUE_DRAW_2019_2020_SEASON_ROUND ROBIN_RESULTS.pdf)
+* [First half Results and Divisional Round](assets/SUNDAY_NITE_LEAGUE_DRAW_2019_2020_SEASON_ROUND_ROBIN_RESULTS.pdf)
 * [First half of season (PDF)](assets/SUNDAY_LEAGUE_DRAW_2019_2020.pdf)
 
 ## League Info
