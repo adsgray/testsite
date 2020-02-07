@@ -5,6 +5,7 @@ feature_image: "assets/sundayopenbanner.jpeg"
 layout: page
 aside: true
 ---
+
 ## Important Dates
 * September 15, 2019 - League Kick-off Night
 * September 22, 2019 - Round Robin play begins
