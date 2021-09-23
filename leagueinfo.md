@@ -12,7 +12,7 @@ The season starts with Round Robin play so each team gets a chance to
 play every team at least once.
 
 
-## Weighted Round Robin (5 week)
+## Weighted Round Robin (4 weeks)
 Games will continue with the game results (wins/losses) added to the
 results from the regular round robin. Teams will find themselves
 primarily matched up against teams from either the top or the bottom
@@ -20,11 +20,7 @@ based on how they finished in the round robin.
 
 
 ## Playoff Round (4 weeks)
-The Sunday Open uses a single elimination tournament format. We use a
-16 team model where those playing teams 15 and 16 are given an
-advance. The two teams facing off against the advance will play an
-exhibition game that will not count to determine the eventual playoff
-winner.
+The Sunday Open uses a single elimination tournament format; however, all teams keep playing even after a loss.
 
 
 # Website / Standings
@@ -87,8 +83,7 @@ to return the following season.
 
 # Spares
 
-As one team has a bye each week you can potentially see if any of those
-players are available.
+Spares must be VCC members. Your Team Captain has access to a list of members that have expressed interest in sparing for Sunday Open. Please give as much advanced notice as possible. Ultimately you, and your team, are responsible for making sure that you have enough players for the game.
 
 
 # Tie Breakers for Playoffs
@@ -108,10 +103,10 @@ have played one fewer game.
 
  
 # Playoff Rules
-* The higher seeded team gets the hammer and choice of stones.
+* The higher seeded team gets the choice of hammer and stones.
 * During the regular season spares can play any position but skip (can
 call the game though). In the playoffs spares can play no higher than
-second position.Spares must play one of the front-end positions (lead
+second position. Spares must play one of the front-end positions (lead
 or second).
 * You must have 2 members of your team playing to register a win.
 * No ties … draw to the button … only throwing team may sweep … must have a piece of the rings to register the win.
@@ -126,13 +121,3 @@ The winner of the Sunday Open Playoffs will be offered our spot in the
 VCC Club Championship. If the Sunday Open is granted an additional
 spot / or if the winner is not available to play the spot will be
 awarded based on the final standings in the playoffs.
-
- 
-
-# Spare Rule (when Bye weeks in schedule)
-
-Teams have the right to ask anyone they like to spare for them as the
-team has already paid their league fees and own their ice time. It is
-recommended though that teams ask players from the team with a bye if
-they have interest if possible. We recognize many teams already have
-designated 5th players already arranged.
