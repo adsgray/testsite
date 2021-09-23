@@ -15,9 +15,7 @@ aside: true
 The season is under way! Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
 
 ## Draw & Results
-* [2019-2020 round robin and divisional results](assets/SUNDAY_2020_AGGREGATE_RESULTS.pdf)
-* [First half Results and Divisional Round](assets/sunday_open_divisional_2020.pdf)
-* [First half of season (PDF)](assets/SUNDAY_LEAGUE_DRAW_2019_2020.pdf)
+* [2020-2021 round robin](assets/2021-22_Sunday_Open_Draw_1.pdf)
 
 ## League Info
 [Information about the league](leagueinfo.html)
