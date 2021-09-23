@@ -12,8 +12,7 @@ aside: true
 * October 3, 2019 - League Fees Due
 
 ## 2020 - 2021 Season
-The Sunday Open is looking for teams and individuals looking to play in in the league. Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club)
-Anticipated 2021-22 season fees are $1,130-$1,175 per team, plus VCC membership fees.
+The season is under way! Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
 
 ## Draw & Results
 * [2019-2020 round robin and divisional results](assets/SUNDAY_2020_AGGREGATE_RESULTS.pdf)
