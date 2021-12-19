@@ -5,24 +5,19 @@ feature_image: "assets/sundayopenbanner.jpeg"
 layout: page
 ---
 
-|Team|Wins|Losses|Points|
-|---|---|---|---|
-|Abel|0|0|0|
-|Between the Sheets|0|0|0|
-|Brown|0|0|0|
-|Macdonald - LOB|0|0|0|
-|Mad Cobras|0|0|0|
-|Mamchur|0|0|0|
-|Meller|0|0|0|
-|Old Macdonald|0|0|0|
-|Roy|0|0|0|
-|Six Packs|0|0|0|
-|Snookums|0|0|0|
-|Sonnies & Cher|0|0|0|
-|Spuzzum Rocks|0|0|0|
-|Tully|0|0|0|
-
-
-* Bye Week Remaining
-
-Points: WIN = 3, TIE = 2, LOSS = 1, DEFAULT
+|Rank|Team|Points|
+|---|---|---|
+1|Macdonald – LOB|26
+1|Team Brown|26
+3|Old Macdonald|24
+3|Roy|24
+5|Indiana Stones and the Temple of Broom|21
+5|Six packs|21
+7|Is it the Shoes?|20
+7|Yu|20
+9|Parrotta|18
+10|Uber Eaters|17
+11|Between the Sheets|16
+11|Snookums|16
+13|Rasmusson|14
+14|The Sheet Stains|11
