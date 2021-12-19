@@ -7,9 +7,8 @@ aside: true
 ---
 
 ## Important Dates
-* September 19, 2019 - League Kick-off Night, a fun play week that will not count towards standings, but is a good chance to shake off the rust
-* September 26, 2019 - Round Robin play begins
-* October 3, 2019 - League Fees Due
+* December 19, 2020 to January 2, 2021 - Holiday break; there may be Open Ice and Bonspiels...check out the Club website
+* January 9, 2021 - Round Robin play resumes
 
 ## 2020 - 2021 Season
 The season is under way! Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
