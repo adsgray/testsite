@@ -5,6 +5,8 @@ feature_image: "assets/sundayopenbanner.jpeg"
 layout: page
 ---
 
+Current as of games completed January 23, 2022.
+
 |Rank|Team|Points|
 |---|---|---|
 1|Team Brown|35
