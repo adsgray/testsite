@@ -7,14 +7,14 @@ aside: true
 ---
 
 ## Important Dates
-* December 19, 2020 to January 2, 2021 - Holiday break; there may be Open Ice and Bonspiels...check out the Club website
-* January 9, 2021 - Round Robin play resumes
+* February 20, 2022 - Family Day weekend, no games
+* March 6, 2022 - Playoffs begin! Everyone qualifies to League playoffs for the chance to represent the League in the Club Champtionship Tournament! Because we have only 14 teams in the League, the top 2 ranked teams will have byes this week - but with the opportunity to play an exhibition game against each other if desired.
 
-## 2020 - 2021 Season
+## 2021 - 2022 Season
 The season is under way! Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
 
 ## Draw & Results
-* [2020-2021 round robin](assets/2021-22SundayOpenDraw1.pdf)
+* [2021-2022 round robin](assets/2021-22SundayOpenDraw1.pdf)
 
 ## League Info
 [Information about the league](leagueinfo.html)
@@ -27,7 +27,7 @@ Your Team Rep will have a copy of the Spares List.
 
 ## League Background
 
-The Sunday Open League will be entering its 20th year. We are an open
+The Sunday Open League is in its 20th year. We are an open
 league where more than half of the teams are mixed gender. Most teams
 in the Sunday Open have been part of the league for multiple years, but
 it is a friendly league and welcomes new teams whenever we can. The Sunday
