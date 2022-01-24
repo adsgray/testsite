@@ -7,17 +7,19 @@ layout: page
 
 |Rank|Team|Points|
 |---|---|---|
-1|Macdonald – LOB|26
-1|Team Brown|26
-3|Old Macdonald|24
-3|Roy|24
-5|Indiana Stones and the Temple of Broom|21
-5|Six packs|21
-7|Is it the Shoes?|20
-7|Yu|20
-9|Parrotta|18
-10|Uber Eaters|17
-11|Between the Sheets|16
-11|Snookums|16
-13|Rasmusson|14
-14|The Sheet Stains|11
+1|Team Brown|35
+2|Macdonald – LOB|32
+3|Old Macdonald|30
+4|Six packs|30
+5|Yu|28
+6|Indiana Stones and the Temple of Broom|27
+7|Roy|27
+8|Between the Sheets|25
+9|Parrotta|25
+10|Is it the Shoes?|23
+11|Snookums|22
+12|Uber Eaters|20
+13|Rasmusson|19
+14|The Sheet Stains|17
+
+Tie-break resolved with head-to-head result
