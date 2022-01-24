@@ -8,7 +8,7 @@ aside: true
 
 ## Important Dates
 * February 20, 2022 - Family Day weekend, no games
-* March 6, 2022 - Playoffs begin! Everyone qualifies to League playoffs for the chance to represent the League in the Club Champtionship Tournament! Because we have only 14 teams in the League, the top 2 ranked teams will have byes this week - but with the opportunity to play an exhibition game against each other if desired.
+* March 6, 2022 - Playoffs begin! Everyone qualifies to League playoffs (please note that the playoffs do not fall under the Province's tournament restrictions because they are held in a manner consistent with normal League play). Because we have only 14 teams in the League, the top 2 ranked teams will have byes this week - but with the opportunity to play an exhibition game against each other if desired.
 
 ## 2021 - 2022 Season
 The season is under way! Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
