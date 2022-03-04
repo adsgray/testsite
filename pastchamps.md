@@ -5,14 +5,27 @@ feature_image: "assets/sundayopenbanner.jpeg"
 layout: page
 ---
 
-## 2017-2018 
+## 2021-2022
+* In Progress
+
+## 2020-2021
+* No season
+
+## 2019-2020
+* Playoff incomplete
+* Final 4 teams: Between the Sheets, Roy, Sonnies & Cher, Tully
+
+## 2018-2019
+* 
+ 
+## 2017-2018
 * Craig Whitaker
 * Hamish Macdonald
 * Steve Adrian
 * John Scholefield
 * Scott Allen 
 
-## 2016-2017 
+## 2016-2017
 * Craig Whitaker 
 * Hamish Macdonald
 * Steve Adrian
