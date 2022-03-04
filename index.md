@@ -7,7 +7,7 @@ aside: true
 ---
 
 ## Important Dates
-* March 6, 2022 - Playoffs begin! Everyone qualifies to League playoffs (please note that the playoffs do not fall under the Province's tournament restrictions because they are held in a manner consistent with normal League play). Because we have only 14 teams in the League, the top 2 ranked teams will have byes this week - but with the opportunity to play an exhibition game against each other if desired.
+* March 6, 2022 - Playoffs begin! Everyone qualifies to League playoffs. Because we have only 14 teams in the League, the top 2 ranked teams will have byes this week - but with the opportunity to play an exhibition game against each other if desired.
 * March 27, 2022 - Sunday Open Skins Night - team captains keep an eye on your email for details.
 * April 3, 2022 - Finals and Lounge Night
 
