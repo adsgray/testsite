@@ -18,6 +18,7 @@ The season is under way! Please e-mail [info@vccsundayopen.club](mailto:info@vcc
 * [Round Robin](assets/SundayOpenRR.pdf)
 * [Pool Play](assets/SundayOpenPOOLS.pdf)
 * [Playoffs](assets/SundayOpenPLAYOFF.pdf)
+* [Playoffs Notes](assets/SundayOpenPlayoffNotes.pdf)
 
 ## League Info
 [Information about the league](leagueinfo.html)
