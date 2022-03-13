@@ -7,8 +7,8 @@ aside: true
 ---
 
 ## Important Dates
-* March 6, 2022 - Playoffs begin! Everyone qualifies to League playoffs. Because we have only 14 teams in the League, the top 2 ranked teams will have byes this week - but with the opportunity to play an exhibition game against each other if desired.
-* March 27, 2022 - Sunday Open Skins Night - team captains keep an eye on your email for details.
+* March 13, 2022 - Playoffs Round 2.
+* March 27, 2022 - Sunday Open Skins Night - email had been sent to captains. Check your inbox for the survey link or e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) to sign up (Sunday Open Skins is only open to current season teams).
 * April 3, 2022 - Finals and Lounge Night
 
 ## 2021 - 2022 Season
