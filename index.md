@@ -8,7 +8,7 @@ aside: true
 
 ## Important Dates
 * March 13, 2022 - Playoffs Round 2.
-* March 27, 2022 - Sunday Open Skins Night - email had been sent to captains. Check your inbox for the survey link or e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) to sign up (Sunday Open Skins is only open to current season teams).
+* March 27, 2022 - Sunday Open Skins Night - email has been sent to captains. Check your inbox for the survey link or e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) to sign up (Sunday Open Skins is only open to current season teams).
 * April 3, 2022 - Finals and Lounge Night
 
 ## 2021 - 2022 Season
