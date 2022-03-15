@@ -16,7 +16,10 @@ layout: page
 * Final 4 teams: Between the Sheets, Roy, Sonnies & Cher, Tully
 
 ## 2018-2019
-* 
+* Brian Gisel
+* Brook Greenberg
+* Joel Duckham
+* Ed Burnet
  
 ## 2017-2018
 * Craig Whitaker
