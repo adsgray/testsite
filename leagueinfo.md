@@ -20,20 +20,20 @@ The Sunday Open uses a single elimination tournament format; however, all teams 
 
 
 # Website / Standings
-* The Sunday Open has its own website at http://vccsundayopen.club
+* The Sunday Open League has its own website at http://vccsundayopen.club
 * The Schedule with results and League Standings should be updated in a timely fashion
 
 
 # Sunday Open General Rules
-* We must be off the ice by 8:45 - the bell is just a reminder.
-* Games that are tied at the end of regulation remain ties.
-* Spares can play any position but can't throw last stones (they can call game).
+* We must be off the ice by 8:45 - the bell is just a reminder (see Clock Policy below)
+* Games that are tied at the end of regulation (time or 8 ends) are recorded as ties
+* Spares can call the game, but cannot throw last stones
 * You must have 2 members of your team playing to register a win
-* You register 3 points for a Win, 1 points for a Loss, 2 points for a Tie, 0 points for a Default
+* 3 points for a Win, 2 points for a Tie, 1 point for a Loss, 0 points for a Default
 
  
 # Sunday Open Clock Policy
-We have 2 hours of contracted time from the Club and we are to be off the ice at the end of those two hours.  As such, the clock rule that we use in the Sunday Open, is that we should try and honour our two hour time-commitment on the ice.
+We have 2 hours of contracted time from the Club and we are to be off the ice at the end of those two hours.  As such, the clock rule that we use in the League, is that we try to honour our two hour time-commitment on the ice.
 
 Procedurally *the skips should discuss amongst themselves how many more ends they will have after the 5th end* (will they have time for 1 or 2). As a more competitive league we acknowledge that you need to know how many more ends you are playing as it affects how you will call the last ends in a close game.
 
@@ -58,17 +58,17 @@ Spares must be VCC members. Your Team Captain has access to a list of members th
 # Tie Breakers for Playoff Seeding
 * If a Team has defaults they lose any tie breaker
 * Direct Head-to-Head if possible
-* Most wins (if two teams have same number of points but one has more wins than the other teams (team has same number of points though because of more ties than losses) the team with more wins finishes ahead).
-* Comparison of how they perform versus the top team in the standings (working down the standings list until the tie is broken).
-* Coin flip.
-* Everyone makes the playoffs.
+* Most wins
+* Comparison of how they perform versus the top team in the standings (working down the standings list until the tie is broken)
+* Coin flip
 
- 
+
 # Playoff Rules
+* Everyone makes the Playoffs.
 * The higher seeded team gets the choice of hammer and stones.
-* Spares must play one of the front-end positions (lead or second).
+* Spares must play front-end positions (lead or second).
 * You must have 2 members of your team playing to register a win.
-* No ties … draw to the button … only throwing team may sweep … must have a piece of the rings to register the win.
+* Playoff games must have a winner. If tied at the end of regulation (time or 8 ends) - draw to the button with only throwing team sweeping. Stone must have a piece of the rings to register the win.
 * For the Championship Final Game, if both teams agree to play on a different sheet, they have the right to switch ice with any other game as long as they inform that sheet before the teams enter the ice.
 
  
