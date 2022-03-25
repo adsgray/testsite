@@ -35,9 +35,9 @@ The Sunday Open uses a single elimination tournament format; however, all teams 
 # Sunday Open Clock Policy
 We have 2 hours of contracted time from the Club and we are to be off the ice at the end of those two hours.  As such, the clock rule that we use in the League, is that we try to honour our two hour time-commitment on the ice.
 
-Procedurally *the skips should discuss amongst themselves how many more ends they will have after the 5th end* (will they have time for 1 or 2). As a more competitive league we acknowledge that you need to know how many more ends you are playing as it affects how you will call the last ends in a close game.
+Procedurally *the skips should discuss amongst themselves how many more ends they will have after the 5th end* - whether there is time for 1, 2, or 3 more ends.
 
-If two are decided on then they should play those two and play responsibly (at a proper pace). If you go over a small amount over time to get the second end in then it's ok as long as you aren’t making a habit of it (we are talking a few (up to 5) minutes (should try and be in the skip stones when clock goes off)). No one curls after us on Sunday so we have more leeway than most Leagues, but officially we do not have permission to go over time.
+Deciding to play 2 or 3 more ends does not guarantee that many ends will be played. If the decision is to play 2 or 3 more, then the teams should continue playing at a proper pace. Going a small amount over time (up to 5 minutes, and ideally already into the skip stones when clock goes off) to complete the final end is ok as long as you are not making a habit of it. No one curls after us on Sunday night so we have more leeway than most Leagues, but officially we do not have permission to go over time.
 
 
 # Default Rule
