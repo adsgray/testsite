@@ -7,7 +7,6 @@ aside: true
 ---
 
 ## Important Dates
-* March 27, 2022 - Sunday Open Skins Night
 * April 3, 2022 - Finals and Lounge Night
 
 ## 2021 - 2022 Season
@@ -29,11 +28,4 @@ Your Team Rep will have a copy of the Spares List.
 [Champs](pastchamps.html)
 
 ## League Background
-
-The Sunday Open League is in its 20th year. We are an open
-league where more than half of the teams are mixed gender. Most teams
-in the Sunday Open have been part of the league for multiple years, but
-it is a friendly league and welcomes new teams whenever we can. The Sunday
-Open League is one of the most active in the club, with many of its members
-participating on the VCC Board, playing in multiple leagues, and competing
-in the VCC bonspiels.
+The Sunday Open League is in its 20th year. We are an open league where more than half of the teams are mixed gender. Most teams have been part of the League for multiple years, but it is a friendly league and welcomes new teams whenever we can. The Sunday Open League is one of the most active in the Club, with members participating on the VCC Board, playing in multiple leagues, and competing in the VCC Bonspiels.
