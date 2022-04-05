@@ -6,7 +6,10 @@ layout: page
 ---
 
 ## 2021-2022
-* In Progress
+* Chris Brown
+* Tony Cheong
+* Sandra Oh
+* Jen Lucas
 
 ## 2020-2021
 * No season
