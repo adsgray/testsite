@@ -7,10 +7,12 @@ aside: true
 ---
 
 ## Important Dates
-* April 3, 2022 - Finals and Lounge Night
+* April 8-10, 2022 - VCC Club Championship
 
 ## 2021 - 2022 Season
-The season is under way! Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
+The season is complete! Congratulations to Team Brown for winning the League Playoffs. They will be representing the Sunday Open League in the VCC Club Championship tournament.
+
+Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
 
 ## Draw & Results
 * [Round Robin](assets/SundayOpenRR.pdf)
