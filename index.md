@@ -7,7 +7,8 @@ aside: true
 ---
 
 ## Important Dates
-* April 8-10, 2022 - [VCC Club Championship](https://vancurl.com/index.php/events/vcc-championship)
+* September 6, 2022 - ice returns
+* September 18, 2022 - first night of play!
 
 ## 2021 - 2022 Season
 The season is complete! Congratulations to Team Brown for winning the League Playoffs. They will be representing the Sunday Open League in the VCC Club Championship tournament.
