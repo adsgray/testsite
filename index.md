@@ -13,7 +13,7 @@ aside: true
 ## 2021 - 2022 Season
 The season is complete! Congratulations to Team Brown for winning the League Playoffs. They will be representing the Sunday Open League in the VCC Club Championship tournament.
 
-Please e-mail [info@vccsundayopen.club](mailto:info@vccsundayopen.club) with any questions about sparing or bringing a team for next season.
+Please e-mail [sunday.open@vancurl.com](mailto:sunday.open@vancurl.com) with any questions about sparing or bringing a team for next season.
 
 ## Draw & Results
 * [Round Robin](assets/SundayOpenRR.pdf)
